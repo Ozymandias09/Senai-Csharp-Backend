@@ -1,0 +1,15 @@
+C:\Users\mvbap\Documents\meuscode\obj\Debug\net6.0\meuscode.csproj.AssemblyReference.cache
+C:\Users\mvbap\Documents\meuscode\obj\Debug\net6.0\meuscode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mvbap\Documents\meuscode\obj\Debug\net6.0\meuscode.AssemblyInfoInputs.cache
+C:\Users\mvbap\Documents\meuscode\obj\Debug\net6.0\meuscode.AssemblyInfo.cs
+C:\Users\mvbap\Documents\meuscode\obj\Debug\net6.0\meuscode.csproj.CoreCompileInputs.cache
+C:\Users\mvbap\Documents\meuscode\bin\Debug\net6.0\meuscode.exe
+C:\Users\mvbap\Documents\meuscode\bin\Debug\net6.0\meuscode.deps.json
+C:\Users\mvbap\Documents\meuscode\bin\Debug\net6.0\meuscode.runtimeconfig.json
+C:\Users\mvbap\Documents\meuscode\bin\Debug\net6.0\meuscode.dll
+C:\Users\mvbap\Documents\meuscode\bin\Debug\net6.0\meuscode.pdb
+C:\Users\mvbap\Documents\meuscode\obj\Debug\net6.0\meuscode.dll
+C:\Users\mvbap\Documents\meuscode\obj\Debug\net6.0\refint\meuscode.dll
+C:\Users\mvbap\Documents\meuscode\obj\Debug\net6.0\meuscode.pdb
+C:\Users\mvbap\Documents\meuscode\obj\Debug\net6.0\meuscode.genruntimeconfig.cache
+C:\Users\mvbap\Documents\meuscode\obj\Debug\net6.0\ref\meuscode.dll
