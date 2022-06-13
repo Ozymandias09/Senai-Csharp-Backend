@@ -8,11 +8,23 @@ class Program
     {
         static void Main (string[] args)
         {
-         Endereco end = new Endereco();
+            PessoaJuridica pj = new PessoaJuridica();
+            PessoaJuridica novapj = new PessoaJuridica();
+
+            Endereco end = new Endereco();
             end.logradouro = "Rua X";
             end.numero = 327;
             end.complemento= "Perto de Neiltom";
             end.enderecoComercial=false;
+
+            novapj.endereco = end;
+            novapj.cnpj = "02802308900001";
+            novapjh.RazaoSocial = "Pessoa Juridica";
+            pj.ValidarCNPJ(novapj.cnpj){
+                System.Console.WriteLine("CNPJ Valido");
+            }else{
+                System.Console.WriteLine("CNPJ Invalido");
+            }
 
             PessoaFisica novapf = new PessoaFisica();
             novapf.endereco = end;
