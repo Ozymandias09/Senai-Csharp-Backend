@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mvbap\\Documents\\meuscode\\meuscode.csproj": {}
+    "C:\\Users\\mvbap\\Documents\\meuscode\\Senai-Csharp-Backend\\meuscode.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mvbap\\Documents\\meuscode\\meuscode.csproj": {
+    "C:\\Users\\mvbap\\Documents\\meuscode\\Senai-Csharp-Backend\\meuscode.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mvbap\\Documents\\meuscode\\meuscode.csproj",
+        "projectUniqueName": "C:\\Users\\mvbap\\Documents\\meuscode\\Senai-Csharp-Backend\\meuscode.csproj",
         "projectName": "meuscode",
-        "projectPath": "C:\\Users\\mvbap\\Documents\\meuscode\\meuscode.csproj",
+        "projectPath": "C:\\Users\\mvbap\\Documents\\meuscode\\Senai-Csharp-Backend\\meuscode.csproj",
         "packagesPath": "C:\\Users\\mvbap\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mvbap\\Documents\\meuscode\\obj\\",
+        "outputPath": "C:\\Users\\mvbap\\Documents\\meuscode\\Senai-Csharp-Backend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mvbap\\AppData\\Roaming\\NuGet\\NuGet.Config",
